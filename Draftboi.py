@@ -201,4 +201,4 @@ async def on_message(message):
             await message.channel.send('No draft has been started in this channel. !help / !draft')
 
 
-client.run('NDIwNDE5ODQ4Nzc5MjAyNTg0.DX-aDw.RANGwcVRDriJiyyLPXg3uESiuq8')
+client.run('TOKEN')
