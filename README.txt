@@ -8,5 +8,3 @@ https://discordpy.readthedocs.io/en/latest/
 https://www.gngrninja.com/code/2017/3/24/python-create-discord-bot-on-raspberry-pi
 
 Permanent server invite for Draftboi (not online anymore): https://discordapp.com/oauth2/authorize?client_id=420419848779202584&permissions=0&scope=bot
-
-Accidentally uploaded the token but that was quickly changed and removed :)
